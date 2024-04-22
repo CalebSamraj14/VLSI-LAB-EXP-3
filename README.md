@@ -3,7 +3,7 @@
 
 **AIM:**
 
-To simulate and synthesis multiplier using Xilinx ISE.
+To simulate and synthesis multiplier using vivado 2023.3.
 
 **APPARATUS REQUIRED:**
 
@@ -138,7 +138,7 @@ endmodule
 
 **Result**
 
-simulation and synthesis multiplier using Xilinx ISE completed successesfully
+simulation and synthesis multiplier using vivado2023.3 completed successesfully
 
 
 
