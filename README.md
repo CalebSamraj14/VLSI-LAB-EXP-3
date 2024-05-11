@@ -118,10 +118,10 @@ fa r73(w[14],fs[4],fc[5],p[5],fc[6]);
 fa r74(w[15],fc[4],fc[6],p[6],p[7]);
 endmodule
 
-OUTPUT WAVEFORM
+output waveform:
 
-![318351128-ea14e5dc-d59e-4093-84c9-00b1657d4c26](https://github.com/Winaayagamit/VLSI-LAB-EXP-3/assets/160568583/b4382772-a30f-4f7c-b7bc-c5d6e13792a5)
 
+![318351128-ea14e5dc-d59e-4093-84c9-00b1657d4c26](https://github.com/Winaayagamit/VLSI-LAB-EXP-3/assets/163808923/9df9fcb5-20fc-4890-9c63-ef1f8a24d3a2)
 
  
 
